@@ -1,0 +1,20 @@
+* {
+    background-color: chocolate;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: azure;
+}
+button{
+    color: azure;
+    border: 30px;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    color: beige;
+}
+input{
+    font-size: 30px;
+}
